@@ -1,2 +1,2 @@
 the file is created.
-the file is edited in remote repo
+the file is edited by user 1.
